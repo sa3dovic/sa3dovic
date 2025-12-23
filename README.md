@@ -1,5 +1,8 @@
 # 💫 About Me:
-Computer Science engineer with strong programming skills in Java and Python, and proficiency in Odoo ERP and<br>Excel. My focus is on merging technical expertise with business acumen to develop unique solutions. I thrive on<br>creativity and problem-solving, eagerly contributing to innovative projects that enhance operational efficiency<br>Passionate about programming, business systems, and developing creative technical solutions
+Computer Science engineer with strong programming skills in Java and Python, and proficiency in Odoo ERP and<br>Excel.
+My focus is on merging technical expertise with business acumen to develop unique solutions.
+I thrive on<br>creativity and problem-solving, 
+eagerly contributing to innovative projects that enhance operational efficiency<br>Passionate about programming, business systems, and developing creative technical solutions
 
 
 ## 🌐 Socials:
